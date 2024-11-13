@@ -1,4 +1,4 @@
-# 🗣️ Machine Translation and Speech Detection
+# Machine Translation and Speech Detection
 
 A powerful project for transforming spoken language into structured text, combining cutting-edge speech recognition and machine translation. Ideal for applications needing high accuracy and efficiency in language processing.
 
