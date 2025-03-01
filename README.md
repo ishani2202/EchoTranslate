@@ -15,8 +15,7 @@ A powerful project for transforming spoken language into structured text, combin
 2. [Getting Started](#getting-started)
 3. [Usage](#usage)
 4. [Project Structure](#project-structure)
-5. [Contributing](#contributing)
-6. [License](#license)
+
 
 ## 🚀 Features
 
